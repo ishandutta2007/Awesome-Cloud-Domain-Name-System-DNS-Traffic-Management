@@ -63,7 +63,7 @@ The cloud DNS and traffic management market spans **hyperscaler DNS services** (
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Pi-hole](https://github.com/pi-hole/pi-hole)** [![Stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=social&color=white)](https://github.com/pi-hole/pi-hole/stargazers) 🕳️  
   **Network-wide ad blocking via DNS**, EUPL-1.2 licensed. **Blackhole for Internet advertisements** with an intuitive web GUI for monitoring and administration. **DNS sinkhole** that blocks tracking and advertising across all network devices. Features Docker container support and custom DHCP/DNS configuration.
@@ -121,7 +121,7 @@ Contributions are welcome! Follow these steps to submit new DNS platforms or ope
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
